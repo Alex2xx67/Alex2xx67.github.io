@@ -1,0 +1,26 @@
+body {
+    background-image: url('https://eldiariony.com/wp-content/uploads/sites/2/2021/11/Comida-rápida-y-diabetes.jpg?quality=60&strip=all&w=1200');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.formulario{
+    background-color: rgb(234, 165, 76);
+    border-radius:10px;
+    padding: 10px;
+    margin: 0 auto;
+    width: 300px;
+}  
+
+input {
+    border: solid 1px #999;
+    outline: none;
+    padding: 10px;
+}
+.Field {
+    width: 250px;
+}
+
+.Error {
+    background-color: rgb(222, 61, 61);
+    color:aliceblue;
+}

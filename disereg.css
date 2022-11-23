@@ -1,0 +1,19 @@
+body{        background-image:url("fond.jpg");
+
+}
+#cabecera{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    height: 100px;
+    line-height: 110px;
+
+}
+#cuerpo{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 17px;
+    margin-top: 80px;
+border: solid 5px rgb(211, 84, 0);
+width: 500px;
+margin-left: 420px;
+margin-top: 40px;
+background-color: rgb(253, 253, 66);
+}
